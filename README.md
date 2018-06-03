@@ -7,7 +7,7 @@ Generate playlist of all media files in current directory.
 ## Features
 
 * Generate m3u8 playlist of all media files in current directory.
-* Show how much time it takes to generate the playlist.
+* Show how much time does it take to generate the playlist.
 
 ## Running
 playlist-generator is a command-line program. It requires Python interpreter of any version and it is not platform specific. It should work on Linux, on OSX or on Windows.
